@@ -1,0 +1,5 @@
+moviepy==1.0.3
+customtkinter==5.2.1
+pillow==10.1.0
+numpy==1.26.0
+tqdm==4.66.1 
